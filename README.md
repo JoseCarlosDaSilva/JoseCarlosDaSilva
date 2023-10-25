@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://media.licdn.com/dms/image/D4D16AQGxONlb4hVtnA/profile-displaybackgroundimage-shrink_350_1400/0/1698199208853?e=1703721600&v=beta&t=x3yKEOytBQEalgkdVQueHDyx89BUiffVd1RrD1-dQ_4" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solving great challenges using technology. <br><br> Over 40 years of experience, mainly leading technical teams and developing badkend solutions using a wide variety of languages and technologies. Despite being in my 50s, I am still <strong>passionate</strong> to learn new languages, frameworks and technologies and improve my problem solving and solution creating skill. Today, I position myself as a <strong>senior backend developer</strong>.</p>&nbsp;
+<p align="center">I ❤️ solving great challenges using technology. <br><br> Over 40 years of experience, mainly leading technical teams and developing backend solutions using a wide variety of languages and technologies. Despite being in my 50s, I am still <strong>passionate</strong> to learn new languages, frameworks and technologies and improve my problem solving and solution creating skill. Today, I position myself as a <strong>senior backend developer</strong>.</p>&nbsp;
 
 ## My Skills
 
