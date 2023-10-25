@@ -40,7 +40,7 @@
 
 ![VScode](https://img.shields.io/badge/vscode-316192?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
 ![VisualStudio](https://img.shields.io/badge/visualstudio-E95420?style=for-the-badge&logo=visualstudio&logoColor=yellow)&nbsp;
-![Delphi](https://img.shields.io/badge/delphi-F7DF1E?style=for-the-badge&logo=delphi&logoColor=yellow)&nbsp;
+![Delphi](https://img.shields.io/badge/delphi-F7DF1E?style=for-the-badge&logo=delphi&logoColor=red)&nbsp;
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-4285F4?style=for-the-badge&logo=phpstorm&logoColor=purple)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-F7DF1E?style=for-the-badge&logo=docker&logoColor=black)&nbsp;
