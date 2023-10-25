@@ -10,7 +10,7 @@
 ![Linux](https://img.shields.io/badge/linux-239120?style=for-the-badge&logo=linux&logoColor=yellow)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-E44C30?style=for-the-badge&logo=php&logoColor=blue)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-14354C?style=for-the-badge&logo=laravel&logoColor=orange)&nbsp;
-![Perl](https://img.shields.io/badge/Perl-E44C30?style=for-the-badge&logo=php&logoColor=navy)&nbsp;
+![Perl](https://img.shields.io/badge/Perl-E44C30?style=for-the-badge&logo=perl&logoColor=navy)&nbsp;
 ![C](https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=c&logoColor=yellow)&nbsp;
 ![C++](https://img.shields.io/badge/cplusplus-239120?style=for-the-badge&logo=cplusplus&logoColor=red)&nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-E44C30?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
