@@ -47,7 +47,7 @@
 
 #### Studying in this moment:
 
-![Apache Kafka](https://img.shields.io/badge/kafka-white?style=for-the-badge&logo=kafka&logoColor=red)&nbsp;
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-white?style=for-the-badge&logo=apachekafka&logoColor=red)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=blue)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Nest.js](https://img.shields.io/badge/Nest-20232A?style=for-the-badge&logo=nestjs&logoColor=green)&nbsp;
