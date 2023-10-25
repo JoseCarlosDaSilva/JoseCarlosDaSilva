@@ -30,9 +30,9 @@
 #### Databases:
 
 ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MariaDB](https://img.shields.io/badge/MariaDB-316192?style=for-the-badge&logo=mariadb&logoColor=cyan)&nbsp;
+![MariaDB](https://img.shields.io/badge/MariaDB-F7DF1E?style=for-the-badge&logo=mariadb&logoColor=cyan)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=green)&nbsp;
-![SQLServer](https://img.shields.io/badge/SQLServer-316192?style=for-the-badge&logo=sqlserver&logoColor=navy)&nbsp;
+![SQLServer](https://img.shields.io/badge/SQLServer-007ACC?style=for-the-badge&logo=sqlserver&logoColor=navy)&nbsp;
 ![Oracle Database](https://img.shields.io/badge/Oracle-316192?style=for-the-badge&logo=oracle&logoColor=purple)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)&nbsp;
 
