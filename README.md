@@ -25,16 +25,16 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-007ACC?style=for-the-badge&logo=angular&logoColor=brown)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=orange)&nbsp;
 
 #### Databases:
 
 ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MariaDB](https://img.shields.io/badge/MariaDB-316192?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
+![MariaDB](https://img.shields.io/badge/MariaDB-316192?style=for-the-badge&logo=mariadb&logoColor=cyan)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=green)&nbsp;
 ![SQLServer](https://img.shields.io/badge/SQLServer-316192?style=for-the-badge&logo=sqlserver&logoColor=navy)&nbsp;
 ![Oracle Database](https://img.shields.io/badge/Oracle-316192?style=for-the-badge&logo=oracle&logoColor=purple)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)&nbsp;
 
 #### Workstation Tools:
 
