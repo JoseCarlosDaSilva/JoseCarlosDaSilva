@@ -40,7 +40,7 @@
 
 ![VScode](https://img.shields.io/badge/vscode-316192?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
 ![VisualStudio](https://img.shields.io/badge/visualstudio-yellow?style=for-the-badge&logo=visualstudio&logoColor=E95420)&nbsp;
-![RadStudio](https://img.shields.io/badge/radstudio-orange?style=for-the-badge&logo=radstudio&logoColor=navy)&nbsp;
+![RadStudio](https://img.shields.io/badge/radstudio-orange?style=for-the-badge&logo=embarcadero&logoColor=navy)&nbsp;
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-4285F4?style=for-the-badge&logo=phpstorm&logoColor=purple)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-F7DF1E?style=for-the-badge&logo=docker&logoColor=black)&nbsp;
