@@ -47,11 +47,11 @@
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/kafka-4285F4?style=for-the-badge&logo=kafka&logoColor=red)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=blue)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Nest.js](https://img.shields.io/badge/Nest-20232A?style=for-the-badge&logo=nestjs&logoColor=green)&nbsp;
-![Next.js](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=nextjs&logoColor=green)&nbsp;
+![Next.js](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=nextjs&logoColor=black)&nbsp;
 
 &nbsp;
 &nbsp;
