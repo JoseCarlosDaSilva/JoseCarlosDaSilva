@@ -45,12 +45,12 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
-#### Studying in this moment:
+#### Currently studying:
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-white?style=for-the-badge&logo=apachekafka&logoColor=red)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=blue)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Nest.js](https://img.shields.io/badge/Nest-20232A?style=for-the-badge&logo=nestjs&logoColor=green)&nbsp;
+![React.js](https://img.shields.io/badge/React-316192?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Nest.js](https://img.shields.io/badge/Nest-E95420?style=for-the-badge&logo=nestjs&logoColor=green)&nbsp;
 
 &nbsp;
 &nbsp;
