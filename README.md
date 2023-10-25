@@ -39,7 +39,7 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-316192?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
-![VisualStudio](https://img.shields.io/badge/visualstudio-E95420?style=for-the-badge&logo=visualstudio&logoColor=yellow)&nbsp;
+![VisualStudio](https://img.shields.io/badge/visualstudio-yellow?style=for-the-badge&logo=visualstudio&logoColor=E95420)&nbsp;
 ![Delphi](https://img.shields.io/badge/delphi-orange?style=for-the-badge&logo=delphi&logoColor=navy)&nbsp;
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-4285F4?style=for-the-badge&logo=phpstorm&logoColor=purple)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
